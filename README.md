@@ -1,2 +1,2 @@
 # Virtual-Fitness-Instructor
-A web-app that guides you to do yoga in a gamefied way.
+A web-app that guides you to do exercises in a gamified way.
